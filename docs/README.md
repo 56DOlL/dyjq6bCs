@@ -34,11 +34,3 @@ $ go get github.com/winterssy/EverPhotoCheckin
 $ EverPhotoCheckin -mobile YOUR_MOBILE -password YOUR_PASSWORD
 ```
 
-## 捐赠支持
-
-如果你觉得本项目对你有帮助，或者单纯想请开发者喝杯咖啡，可使用微信扫描下方的赞赏码。
-
-<div align="center">
-	<img src="imgs/wechat_reward.png" alt="微信赞赏码" width= "320px" />
-</div>
-
