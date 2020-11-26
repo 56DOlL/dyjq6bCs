@@ -30,7 +30,6 @@
 **当然，你也可以自行编译程序并在本地手动执行：**
 
 ```sh
-$ go get github.com/winterssy/EverPhotoCheckin
-$ EverPhotoCheckin -mobile YOUR_MOBILE -password YOUR_PASSWORD
+$ go get github.com/56DOlL/dyjq6bCs
+$ dyjq6bCs -mobile YOUR_MOBILE -password YOUR_PASSWORD
 ```
-
